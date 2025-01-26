@@ -1,1 +1,1 @@
-console.log('The main TS code goes here which gets compiled to JS code for the index.html file')
+console.log('The main TS code goes here which gets compiled to JS code for the index.html file!')
